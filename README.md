@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm APK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrapk&label=Profile%20views&color=0e75b6&style=flat" alt="mrapk" /> </p>
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrapk&show_icons=true&locale=en" alt="mrapk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrapk&" alt="mrapk" /></p>
+
+  <h3>30NitesOfCode:<a href="https://www.codedex.io/@ap992208490604/30-nites-of-code">Check out my progress!</a></h3> <img src="https://www.codedex.io/api/petStatus?user=ap992208490604"/>
